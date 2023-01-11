@@ -1,0 +1,15 @@
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/bin/Debug/net6.0/Example007_magic
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/bin/Debug/net6.0/Example007_magic.deps.json
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/bin/Debug/net6.0/Example007_magic.runtimeconfig.json
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/bin/Debug/net6.0/Example007_magic.dll
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/bin/Debug/net6.0/Example007_magic.pdb
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/obj/Debug/net6.0/Example007_magic.csproj.AssemblyReference.cache
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/obj/Debug/net6.0/Example007_magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/obj/Debug/net6.0/Example007_magic.AssemblyInfoInputs.cache
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/obj/Debug/net6.0/Example007_magic.AssemblyInfo.cs
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/obj/Debug/net6.0/Example007_magic.csproj.CoreCompileInputs.cache
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/obj/Debug/net6.0/Example007_magic.dll
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/obj/Debug/net6.0/refint/Example007_magic.dll
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/obj/Debug/net6.0/Example007_magic.pdb
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/obj/Debug/net6.0/Example007_magic.genruntimeconfig.cache
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example007_magic/obj/Debug/net6.0/ref/Example007_magic.dll
