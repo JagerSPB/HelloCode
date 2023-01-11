@@ -1,0 +1,15 @@
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/obj/Debug/net6.0/Example005_ConditionIFElse.csproj.AssemblyReference.cache
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/obj/Debug/net6.0/Example005_ConditionIFElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/obj/Debug/net6.0/Example005_ConditionIFElse.AssemblyInfoInputs.cache
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/obj/Debug/net6.0/Example005_ConditionIFElse.AssemblyInfo.cs
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/obj/Debug/net6.0/Example005_ConditionIFElse.csproj.CoreCompileInputs.cache
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/bin/Debug/net6.0/Example005_ConditionIFElse
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/bin/Debug/net6.0/Example005_ConditionIFElse.deps.json
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/bin/Debug/net6.0/Example005_ConditionIFElse.runtimeconfig.json
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/bin/Debug/net6.0/Example005_ConditionIFElse.dll
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/bin/Debug/net6.0/Example005_ConditionIFElse.pdb
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/obj/Debug/net6.0/Example005_ConditionIFElse.dll
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/obj/Debug/net6.0/refint/Example005_ConditionIFElse.dll
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/obj/Debug/net6.0/Example005_ConditionIFElse.pdb
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/obj/Debug/net6.0/Example005_ConditionIFElse.genruntimeconfig.cache
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example005_ConditionIFElse/obj/Debug/net6.0/ref/Example005_ConditionIFElse.dll
