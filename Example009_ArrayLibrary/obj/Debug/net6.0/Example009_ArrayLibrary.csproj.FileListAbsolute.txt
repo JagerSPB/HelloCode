@@ -1,0 +1,15 @@
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/obj/Debug/net6.0/Example009_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/obj/Debug/net6.0/Example009_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/obj/Debug/net6.0/Example009_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/obj/Debug/net6.0/Example009_ArrayLibrary.AssemblyInfo.cs
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/obj/Debug/net6.0/Example009_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/bin/Debug/net6.0/Example009_ArrayLibrary
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/bin/Debug/net6.0/Example009_ArrayLibrary.deps.json
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/bin/Debug/net6.0/Example009_ArrayLibrary.runtimeconfig.json
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/bin/Debug/net6.0/Example009_ArrayLibrary.dll
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/bin/Debug/net6.0/Example009_ArrayLibrary.pdb
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/obj/Debug/net6.0/Example009_ArrayLibrary.dll
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/obj/Debug/net6.0/refint/Example009_ArrayLibrary.dll
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/obj/Debug/net6.0/Example009_ArrayLibrary.pdb
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/obj/Debug/net6.0/Example009_ArrayLibrary.genruntimeconfig.cache
+/Users/vaysmans/Desktop/My_Programms/Project_C/Exampels/Example009_ArrayLibrary/obj/Debug/net6.0/ref/Example009_ArrayLibrary.dll
